@@ -1,0 +1,20 @@
+:root {
+  --GeistMono: "GeistMono";
+  --Geist: "Geist";
+}
+
+@font-face {
+  font-family: "GeistMono";
+  src: url("GeistMonoVF.woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url("GeistVF.woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

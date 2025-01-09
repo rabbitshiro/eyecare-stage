@@ -1,0 +1,7 @@
+body {
+  font-family: var(--nexa);
+}
+
+/* Fonts */
+@import "./fonts/stylesheet.css";
+@import "./globals.css";
